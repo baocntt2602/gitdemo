@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setResult(123)
         print("Bao")
         print("Bao2")
-        print("Bao2")
+        print("Bao4")
+        print("Bao4")
     }
 }
