@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         setResult(123)
         print("Bao")
+        print("Bao2")
     }
 }
