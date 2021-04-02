@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         print("Bao")
         print("Bao2")
         print("Bao4")
+        print("Bao4")
     }
 }
